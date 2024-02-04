@@ -1,0 +1,4 @@
+repository "beredar@a8258@cloud"
+  path "/"
+    br "/main"
+    co "/main"
