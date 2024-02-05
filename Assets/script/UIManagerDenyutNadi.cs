@@ -7,7 +7,7 @@ using Unity.VisualScripting;
 
 public class UIManagerDenyutNadi : MonoBehaviour
 {
-    public RectTransform langkah1, langkah2, langkah3, langkah4, langkah5, langkah6, langkah7, langkah8, langkah9, popupSelesai;
+    public RectTransform langkah1, langkah2, langkah3, langkah4, langkah5, langkah6, langkah7, langkah8, langkah9, popupSelesai, bg1, bg2;
 
     // Start is called before the first frame update
     void Start()
@@ -45,8 +45,10 @@ public class UIManagerDenyutNadi : MonoBehaviour
     }
     public void pindahLangkah7()
     {
-        langkah6.DOAnchorPos(new Vector2(-830, 0), 0.25f);
+        langkah6.DOAnchorPos(new Vector2(-1000, 0), 0.25f);
         langkah7.DOAnchorPos(new Vector2(0, 0), 0.25f);
+        bg1.DOAnchorPos(new Vector2(-1000, 0), 0f);
+        bg2.DOAnchorPos(new Vector2(0, 0), 0f);
     }
     public void pindahLangkah8()
     {
