@@ -47,4 +47,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/paru_paru_hewan.unity
     guid: 9093ac9af0837214bbac604fdfb925be
+  - enabled: 1
+    path: Assets/Scenes/lat_jantung_manusia.unity
+    guid: 039fa80bf3ea65b4e82ad597679df74f
+  - enabled: 1
+    path: Assets/Scenes/lat_paru_paru_manusia.unity
+    guid: 248515f3dc17cf24fa2af2748ffe7a2a
   m_configObjects: {}

@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using DG.Tweening;
 
-public class UIManager : MonoBehaviour
+public class UIManagerRawat : MonoBehaviour
 {
 
     public RectTransform page1, page2, page3, page4, page5, popupSelesai;
