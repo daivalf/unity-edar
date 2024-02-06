@@ -41,4 +41,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/menu_organ_pd_hewan.unity
     guid: 624d3cb8f2208364785dad96f682c2a3
+  - enabled: 1
+    path: Assets/Scenes/pembuluh_hewan.unity
+    guid: 26a1d1702af53c649833356e3752870a
+  - enabled: 1
+    path: Assets/Scenes/paru_paru_hewan.unity
+    guid: 9093ac9af0837214bbac604fdfb925be
   m_configObjects: {}
