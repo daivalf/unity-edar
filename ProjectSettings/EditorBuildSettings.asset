@@ -32,4 +32,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/jantung_manusia.unity
     guid: 7c08d6401f0a7ac43a5d4aceacc3ea89
+  - enabled: 1
+    path: Assets/Scenes/pembuluh_manusia.unity
+    guid: 40872371a04d04f428acf68d98369217
+  - enabled: 1
+    path: Assets/Scenes/paru_paru_manusia.unity
+    guid: 00b0cbc699b9955499be6ee4a44aef70
   m_configObjects: {}
