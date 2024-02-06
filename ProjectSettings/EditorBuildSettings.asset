@@ -24,10 +24,10 @@ EditorBuildSettings:
     path: Assets/Scenes/menu_materi_hewan.unity
     guid: 99ba4b76c09ea0145a93334349f41b27
   - enabled: 1
-    path: Assets/Scenes/organ_pd_manusia.unity
+    path: Assets/Scenes/menu_organ_pd_manusia.unity
     guid: 0609967abf7667047a108f4ed7c51e16
   - enabled: 1
-    path: Assets/Scenes/menu_organ_jantung_hewan.unity
+    path: Assets/Scenes/jantung_hewan.unity
     guid: 9e03bbe15adfa0b4f8f4c86ce0d0baad
   - enabled: 1
     path: Assets/Scenes/jantung_manusia.unity
@@ -38,4 +38,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/paru_paru_manusia.unity
     guid: 00b0cbc699b9955499be6ee4a44aef70
+  - enabled: 1
+    path: Assets/Scenes/menu_organ_pd_hewan.unity
+    guid: 624d3cb8f2208364785dad96f682c2a3
   m_configObjects: {}
