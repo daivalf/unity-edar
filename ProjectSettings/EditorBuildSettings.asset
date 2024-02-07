@@ -53,4 +53,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/lat_paru_paru_manusia.unity
     guid: 248515f3dc17cf24fa2af2748ffe7a2a
+  - enabled: 1
+    path: Assets/Scenes/lat_PD_manusia.unity
+    guid: 2272ff1de4069804d99fe26bf8cfa2f0
   m_configObjects: {}

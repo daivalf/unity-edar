@@ -7,7 +7,7 @@ public class swipeRotate : MonoBehaviour
     private Touch touch;
     private Vector2 touchPos;
     private Quaternion rotationY;
-    private float rotateSpeedModifier = 0.1f;
+    private float rotateSpeedModifier = 0.2f;
 
     // Update is called once per frame
     void Update()
