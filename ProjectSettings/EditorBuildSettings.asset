@@ -68,4 +68,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/menu_alur_pd_manusia.unity
     guid: f4320d8661b151e47a8f482f1f07831e
+  - enabled: 1
+    path: Assets/Scenes/alur_pd_manusia_kecil.unity
+    guid: 92215d68754ca1344bddc7667b43b36c
+  - enabled: 1
+    path: Assets/Scenes/alur_pd_manusia_besar.unity
+    guid: 0d9e3a72b0957014dae78dc7b221c30d
+  - enabled: 1
+    path: Assets/Scenes/menu_sistem_pd_hewan.unity
+    guid: efff403b0ff3ede4a942197f4580e30c
+  - enabled: 1
+    path: Assets/Scenes/sistem_pd_hewan_tertutup.unity
+    guid: a490765e60e50b545bfad6490f4e5e61
+  - enabled: 1
+    path: Assets/Scenes/sistem_pd_hewan_terbuka.unity
+    guid: f4a378b2c683df04488624aa853cc929
   m_configObjects: {}
