@@ -83,4 +83,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/sistem_pd_hewan_terbuka.unity
     guid: f4a378b2c683df04488624aa853cc929
+  - enabled: 1
+    path: Assets/Scenes/lat_alur_besar.unity
+    guid: 5671aacc63fec764dbfb589083df8663
+  - enabled: 1
+    path: Assets/Scenes/lat_alur_kecil.unity
+    guid: b4facac87e5ba2445bb268644d385fa7
   m_configObjects: {}

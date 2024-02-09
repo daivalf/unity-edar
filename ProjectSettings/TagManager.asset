@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: jawaban
+    uniqueID: 56298483
+    locked: 0
+  - name: pilihan
+    uniqueID: 2599151875
+    locked: 0

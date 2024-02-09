@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "unity-edar.sln"
+    "dotnet.defaultSolution": "unity-edar-2.sln"
 }
