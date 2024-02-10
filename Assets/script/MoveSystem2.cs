@@ -14,6 +14,7 @@ public class MoveSystem2 : MonoBehaviour
 
     public RectTransform popupBerhasil, popupGagal;
 
+    public float jarak = 40;
     void Start()
     {
         pilihan1InitialPos = pilihan1.transform.position;
@@ -51,7 +52,7 @@ public class MoveSystem2 : MonoBehaviour
     public void DropPilihan1()
     {
         float Distance = Vector3.Distance(pilihan1.transform.position, jawaban1.transform.position);
-        if (Distance<15)
+        if (Distance<jarak)
         {
             pilihan1.transform.position = jawaban1.transform.position;
             pilihan1Correct = true;
@@ -65,7 +66,7 @@ public class MoveSystem2 : MonoBehaviour
     public void DropPilihan2()
     {
         float Distance = Vector3.Distance(pilihan2.transform.position, jawaban2.transform.position);
-        if (Distance<15)
+        if (Distance<jarak)
         {
             pilihan2.transform.position = jawaban2.transform.position;
             pilihan2Correct = true;
@@ -79,7 +80,7 @@ public class MoveSystem2 : MonoBehaviour
     public void DropPilihan3()
     {
         float Distance = Vector3.Distance(pilihan3.transform.position, jawaban3.transform.position);
-        if (Distance<15)
+        if (Distance<jarak)
         {
             pilihan3.transform.position = jawaban3.transform.position;
             pilihan3Correct = true;
@@ -93,7 +94,7 @@ public class MoveSystem2 : MonoBehaviour
     public void DropPilihan4()
     {
         float Distance = Vector3.Distance(pilihan4.transform.position, jawaban4.transform.position);
-        if (Distance<15)
+        if (Distance<jarak)
         {
             pilihan4.transform.position = jawaban4.transform.position;
             pilihan4Correct = true;
@@ -107,7 +108,7 @@ public class MoveSystem2 : MonoBehaviour
     public void DropPilihan5()
     {
         float Distance = Vector3.Distance(pilihan5.transform.position, jawaban5.transform.position);
-        if (Distance<15)
+        if (Distance<jarak)
         {
             pilihan5.transform.position = jawaban5.transform.position;
             pilihan5Correct = true;
